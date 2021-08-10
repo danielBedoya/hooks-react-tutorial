@@ -4,8 +4,9 @@ import ReactDOM from 'react-dom';
 //import { CounterApp } from "./components/CounterApp";
 //import { Form } from "./components/Form";
 // import { MultipleHooks } from "./components/MultipleHooks";
-import { TodoApp } from "./components/TodoApp";
+// import { TodoApp } from "./components/TodoApp";
+import { MainApp } from "./components/MainApp";
 ReactDOM.render(
-    <TodoApp />,
+    <MainApp />,
     document.getElementById('root')
 );
