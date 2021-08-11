@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en loginScreen Debe mostrarse correctamente 1`] = `
+<div>
+  <h1>
+    Login
+  </h1>
+  <div
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Cambiar Usuario
+  </div>
+</div>
+`;
